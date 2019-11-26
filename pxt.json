@@ -1,0 +1,20 @@
+{
+    "name": "TEMP",
+    "version": "0.0.0",
+    "description": "makecode custom block for temperature change",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        
+        "main.ts"
+    ],
+    "testFiles": [
+       
+    ],
+    "public": true,
+    "preferredEditor": "blocksprj",
+    "license": "MIT"
+}
